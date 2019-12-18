@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZADMIN_GET_PASS_DETAILS</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Get the passenger details</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZADMIN_GET_PASS_DETAILS</CLSNAME>
+     <CMPNAME>GET_DATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get passenger and train details</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZADMIN_GET_PASS_DETAILS</CLSNAME>
+     <CMPNAME>GET_OBJECT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get the Instance of the class</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZADMIN_GET_PASS_DETAILS</CLSNAME>
+     <CMPNAME>IO_MODEL</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get the passenger details</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZADMIN_GET_PASS_DETAILS</CLSNAME>
+     <CMPNAME>T_DATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Travel Request Item - Train Service</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
